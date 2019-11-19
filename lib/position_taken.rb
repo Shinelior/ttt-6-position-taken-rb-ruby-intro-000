@@ -1,2 +1,5 @@
 # code your #position_taken? method here!
-def 
+def position_taken(board,index)
+  if board[index]!="O" && 
+    
+end
